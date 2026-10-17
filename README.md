@@ -21,3 +21,8 @@
       <a href="https://wa.me/+573155312809" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
+  </p>
+  </samp>
+</div>
+</details>
+</div>
